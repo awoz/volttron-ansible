@@ -82,7 +82,7 @@ playbook.
 Available recipes
 -----------------
 
-All provided recipes are ansible playbooks and can be executed directly using the the ``ansible-playook``
+All provided recipes are ansible playbooks and can be executed directly using the the ``ansible-playbook``
 command line tool. Each of the available playbooks are discussed in the following subsections, they
 can all be found in the top-level directory of the volttron-ansible repo.
 
